@@ -233,6 +233,7 @@ The authors of this tutorial would like to express their gratitude to:
 
 - NSF through the awards 2138811, 2103845, 2334945, 2138296, and 2331152.
 - NASA Ames Research Center and NASA JPL
-- Open Science Data Federation (OSDF) and Pelican Platform Team
+- Open Science Data Federation (OSDF) [link](https://osg-htc.org/services/osdf) and Pelican Platform Team [link](https://pelicanplatform.org/)
+
 
 Any opinions, findings, conclusions, or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
