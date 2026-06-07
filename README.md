@@ -2,7 +2,7 @@
 
 ## Abstract
 
-*Harnessing HPC and AI for Interactive Analysis and Visualization of Large Scientific Datasets by Valerio Pascucci*
+
 
 Computing is ubiquitous, present in the cloud, clusters at our institutions, and even in our laptops. However, the significant challenge remains the management of vast amounts of data, often generated remotely at the edge using experimental facilities or supercomputers in large national laboratories. When dealing with such vast data stored in various public and private remote locations, moving data from remote facilities to our desktop is impractical. Scientists dealing with this data often prefer to review it remotely before transferring only specific portions for closer AI-based analysis and visualization. Each step of this process is challenging: streaming the data, identifying and deploying tools for data analysis and visualization, interacting dynamically with the data, and exploring multiple datasets simultaneously.
 

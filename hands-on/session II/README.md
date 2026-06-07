@@ -71,12 +71,12 @@ You can choose one of the two options below based on your preferred setup.
 ## Option 1: GitHub Codespaces (Recommended)
   <p><strong>Requirements:</strong> A GitHub account. No software installation required.</p>
   <p>
-    <a href="https://github.com/codespaces/new/nsdf-fabric/barcelona-summerschool-2026?devcontainer_path=.devcontainer/session+II/devcontainer.json">
+    <a href="https://github.com/codespaces/new/nsdf-fabric/EuroVis-Tutorial-2026?devcontainer_path=.devcontainer/session+II/devcontainer.json">
       <img src="https://github.com/codespaces/badge.svg" alt="Open in GitHub Codespaces"> 
     </a> <= Click here to take you to create a new codespace
   </p>
   <ol>
-    <li>Repository: <code>nsdf-fabric/barcelona-summerschool-2026</code>.</li>
+    <li>Repository: <code>nsdf-fabric/EuroVis-Tutorial-2026</code>.</li>
     <li>Use the <strong>main</strong> branch of the repository.</li>
     <li>Dev container: <code>NSDF Tutorial – Session II</code>.</li>
     <li>Click <strong>Create Codespace</strong>.</li>
